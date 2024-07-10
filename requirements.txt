@@ -13,3 +13,4 @@ flake8
 beautifulsoup4
 dnspython
 packaging
+zipp>=3.19.1 # not directly required, pinned by Snyk to avoid a vulnerability
